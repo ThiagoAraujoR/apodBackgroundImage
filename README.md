@@ -7,4 +7,4 @@ To use this in your linux, just change the var img_path in line 11 to the path o
 
 If desires to set it to run everyday, set it on your /etc/crontab using the command
 
-* 10 * * *	root	scrapy runspider {projectPath}
+\\* 10 * * *	root	scrapy runspider {projectPath}
